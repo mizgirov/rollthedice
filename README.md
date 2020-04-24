@@ -1,3 +1,3 @@
-# rollthedice
-Simple roll the dice game
+# roll the dice
+Simple roll the dice game for
 js practicing
